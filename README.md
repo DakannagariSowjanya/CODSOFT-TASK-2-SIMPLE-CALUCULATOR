@@ -1,0 +1,2 @@
+# CODSOFT-TASK-2-SIMPLE-CALUCULATOR
+Internship tasks for CODSOFT October Batch B55
